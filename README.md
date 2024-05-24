@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hello! 👋
 
-<!--
-**gastonmastra/gastonmastra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Gastón but you can call me Mastra, a recent graduate in Information Systems Engineering from the Universidad Tecnológica Nacional, Facultad Regional Córdoba. Currently, I'm working as a backend developer with Flask at "Gilson Housing Partners" company.
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Graduated in Information Systems Engineering.
+- 💼 Backend Developer at [Gilson Housing Partners](https://gilsonhousingpartners.com).
+- 🌍 I'm from Villa Carlos Paz, Argentina.
+- 📅 Born on 03/22/2001.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+My top technologies include:
+- 💻 .NET
+- 🅰️ Angular
+- 🌐 Flask
+- 🚀 Express
+- 📱 Ionic
+
+## Learning
+Currently, I'm focused on learning:
+- 🔒 Cybersecurity
+- 🧪 Unit Testing
+- 🤖 Automations
+
+## Contact
+If you'd like to connect or have any questions, feel free to reach out!
+- 📧 Email: [mastrapasqua.gaston@gmail.com](mailto:mastrapasqua.gaston@gmail.com)
+- 🔗 LinkedIn: [Gastón Mastrapasqua](https://www.linkedin.com/in/gastonmastra/)
