@@ -1,6 +1,8 @@
 # Hello! 👋
 
-Welcome to my GitHub profile! I'm Gastón but you can call me Mastra, a recent graduate in Information Systems Engineering from the Universidad Tecnológica Nacional, Facultad Regional Córdoba. Currently, I'm working as a backend developer with Flask at "Gilson Housing Partners" company.
+Welcome to my GitHub profile! I'm Gastón but you can call me Mastra, a recent graduate in Information Systems Engineering from the Universidad Tecnológica Nacional, Facultad Regional Córdoba.
+I am passionate about technologie in general, and software is where I fell through the twists and turns of life.
+
 
 ## About Me
 - 🎓 Graduated in Information Systems Engineering.
