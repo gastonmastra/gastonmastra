@@ -12,7 +12,7 @@ I am passionate about technologie in general, and software is where I fell throu
 - 📅 Born on 03/22/2001.
 
 ## Technologies
-I used to work a lot but Angular and .NET. Nowadays I'm working with Django and React.
+I used to work a lot with Angular and .NET. Nowadays I'm working with Django and React.
 I'm a person that can change technologies on the way (or at least so I try 😅) so I feel comfortable with many frameworks.
 
 ## Learning
